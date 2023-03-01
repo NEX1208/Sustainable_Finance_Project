@@ -1,0 +1,99 @@
+parent;country;classification
+AE;UNITED ARAB EMIRATES     ;EM
+AR;ARGENTINA                ;EM
+AT;AUSTRIA                  ;EUR
+AU;AUSTRALIA                ;PAC
+BA;BOSNIA AND HERZEGOVINA   ;SA
+BD;BANGLADESH               ;FRON
+BE;BELGIUM                  ;EUR
+BG;BULGARIA                 ;SA
+BH;BAHRAIN                  ;FRON
+BM;BERMUDA                  ;Other
+BR;BRAZIL                   ;EM
+BS;BAHAMAS                  ;Other
+BW;BOTSWANA                 ;SA
+CA;CANADA                   ;AMER
+CH;SWITZERLAND              ;EUR
+CI;CÔTE DIVOIRE            ;Other
+CL;CHILE                    ;EM
+CN;CHINA                    ;EM
+CO;COLOMBIA                 ;EM
+CY;CYPRUS                   ;Other
+CZ;CZECH REPUBLIC           ;EM
+DE;GERMANY                  ;EUR
+DK;DENMARK                  ;EUR
+EE;ESTONIA                  ;FRON
+EG;EGYPT                    ;EM
+ES;SPAIN                    ;EUR
+FI;FINLAND                  ;EUR
+FR;FRANCE                   ;EUR
+GB;UNITED KINGDOM           ;EUR
+GE;GEORGIA                  ;Other
+GG;GUERNSEY                 ;Other
+GH;GHANA                    ;Other
+GI;GIBRALTAR                ;Other
+GR;GREECE                   ;EM
+HK;HONG KONG                ;PAC
+HR;CROATIA                  ;FRON
+HU;HUNGARY                  ;EM
+ID;INDONESIA                ;EM
+IE;IRELAND                  ;EUR
+IL;ISRAEL                   ;EUR
+IM;ISLE OF MAN              ;Other
+IN;INDIA                    ;EM
+IS;ICELAND                  ;SA
+IT;ITALY                    ;EUR
+JE;JERSEY                   ;Other
+JM;JAMAICA                  ;SA
+JO;JORDAN                   ;FRON
+JP;JAPAN                    ;PAC
+KE;KENYA                    ;FRON
+KR;KOREA, REPUBLIC OF       ;EM
+KW;KUWAIT                   ;EM
+KY;CAYMAN ISLANDS           ;Other
+KZ;KAZAKHSTAN               ;FRON
+LB;LEBANON                  ;FRON
+LI;LIECHTENSTEIN            ;Other
+LK;SRI LANKA                ;FRON
+LT;LITHUANIA                ;FRON
+LU;LUXEMBOURG               ;Other
+MA;MOROCCO                  ;FRON
+MH;MARSHALL ISLANDS         ;Other
+MO;MACAO                    ;Other
+MU;MAURITIUS                ;FRON
+MX;MEXICO                   ;EM
+MY;MALAYSIA                 ;EM
+NA;NAMIBIA                  ;Other
+NG;NIGERIA                  ;FRON
+NL;NETHERLANDS              ;EUR
+NO;NORWAY                   ;EUR
+NZ;NEW ZEALAND              ;PAC
+OM;OMAN                     ;FRON
+PE;PERU                     ;EM
+PG;PAPUA NEW GUINEA         ;Other
+PH;PHILIPPINES              ;EM
+PK;PAKISTAN                 ;EM
+PL;POLAND                   ;EM
+PT;PORTUGAL                 ;EUR
+QA;QATAR                    ;EM
+RO;ROMANIA                  ;FRON
+RS;SERBIA                   ;FRON
+RU;RUSSIAN FEDERATION       ;EM
+RW;RWANDA                   ;Other
+SA;SAUDI ARABIA             ;EM
+SE;SWEDEN                   ;EUR
+SG;SINGAPORE                ;PAC
+SI;SLOVENIA                 ;FRON
+TG;TOGO                     ;Other
+TH;THAILAND                 ;EM
+TN;TUNISIA                  ;FRON
+TR;TURKEY                   ;EM
+TW;TAIWAN, PROVINCE OF CHINA;EM
+UA;UKRAINE                  ;SA
+UG;UGANDA                   ;Other
+US;UNITED STATES            ;AMER
+VI;VIRGIN ISLANDS, BRITISH  ;Other
+VN;VIET NAM                 ;FRON
+ZA;SOUTH AFRICA             ;EM
+ZM;ZIMBABWE                 ;SA
+" ];";;
